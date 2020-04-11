@@ -1,0 +1,6 @@
+framework module WGArrayTool {
+  umbrella header "WGArrayTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

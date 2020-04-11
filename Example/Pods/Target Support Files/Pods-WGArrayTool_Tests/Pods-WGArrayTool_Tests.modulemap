@@ -1,0 +1,6 @@
+framework module Pods_WGArrayTool_Tests {
+  umbrella header "Pods-WGArrayTool_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
